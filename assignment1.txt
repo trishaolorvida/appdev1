@@ -1,0 +1,88 @@
+Olorvida, Trisha
+BSIS 3
+App Dev and Em Tech
+
+
+Assignment 1: Exploring Emerging Technologies
+
+1. Artificial Intelligence
+Purpose: The primary goal of this technology is to make the workload easy for the education sector and the IT industry. 
+It can help with the repetitive tasks and can lessen the workload.
+
+Usage: We know that AI has been improving a lot these days so it can be useful to the education sector and the IT industry
+in a way that AI can be used to calculate the students' grades quickly and efficiently, or use it for data analytics on the IT side.
+
+Example: Education Sector - Gradescope is an AI-powered platform used by universities to automate the grading of assignments and exams.
+Instructors save significant time on grading, allowing them to focus more on teaching and providing personalized feedback.
+
+IT Industry - Google Analytics with AI Insights provides insights and recommendations to website owners. The owners of websites can 
+use data-based choices to make enhancements in user engagement, optimization of marketing promotions, and improvement of customers’ 
+interaction resulting in an increased business performance.
+
+
+2. Internet of Things
+Purpose:  Its primary goal is to create self-reporting devices that can communicate with each other (and users) in real time.
+IoT describes the network of physical objects that are embedded with sensors, software, and other technologies for 
+the purpose of connecting and exchanging data with other devices and systems over the internet.
+
+Usage: IoT has a lot of usage and benefits to both sectors such as the creation of smart classrooms where devices like 
+interactive whiteboards, smart projectors, and connected tablets are integrated to enhance the learning experience for
+the education sector. Meanwhile, IT companies are heavily involved in developing IoT solutions for smart cities, where 
+connected devices are used to manage urban infrastructure, including traffic lights, waste management, and energy grids.
+
+Example: Education Sector - Georgia State University implemented IoT technology in its classrooms to create a more interactive 
+and efficient learning environment. The university installed smart sensors and connected devices in classrooms to automate lighting, 
+control temperature, and manage AV equipment. This has led to significant energy savings, more comfortable learning environments, 
+and improved resource management.
+
+IT Industry - Barcelona has implemented a variety of IoT solutions to create a smart city. This includes smart street lighting that 
+adjusts based on pedestrian and vehicle traffic, IoT-enabled waste management systems that monitor trash levels and optimize collection 
+routes, and connected public transportation systems that provide real-time updates to commuters.
+
+3. 5G Technology
+Purpose: It is meant to deliver higher multi-Gbps peak data speeds, ultra low latency, more reliability, massive network capacity, increased 
+availability, and a more uniform user experience to more users.
+
+Usage: For the Education Sector, it greatly enhance the connectivity of educational institutions, allowing for faster and more reliable internet access. 
+This will enable more effective online learning, virtual classrooms, and collaboration among students and educators. As for the IT industry, is a 
+game-changer, providing the necessary bandwidth and low latency required for innovations like autonomous vehicles, remote surgeries, 
+and enhanced mobile experiences. It also facilitates the expansion of IoT networks and real-time data processing.
+
+Example: Education Sector - During the COVID-19 pandemic, China leveraged 5G technology to enhance distance learning. 5G allowed for the seamless 
+streaming of high-definition video lessons and enabled interactive virtual classrooms. 5G technology provided a reliable and high-quality learning 
+experience for students, helping them stay engaged and connected to their education during the pandemic.
+
+IT Industry - Verizon has used 5G technology to support autonomous drones for IT infrastructure inspection and management. The use of 5G-enabled 
+drones has significantly reduced the time and cost associated with inspecting and maintaining IT infrastructure.
+
+
+4. Virtual Reality (VR) and Augmented Reality (AR)
+Purpose: Augmented reality (AR) augments your surroundings by adding digital elements to a live view, often by using the camera on a smartphone. 
+Virtual reality (VR) is a completely immersive experience that replaces a real-life environment with a simulated one.
+
+Usage: VR and AR are used to create immersive educational environments where students can explore and interact with content in ways that are not 
+possible in traditional classrooms. While, VR and AR are used in the IT industry for virtual prototyping and design, allowing engineers and designers 
+to visualize and interact with their creations in a virtual space before they are built.
+
+Example: Education Sector -  The University of Maryland uses VR to create a virtual chemistry lab where students can conduct experiments in a safe, 
+controlled environment. This allows students to gain hands-on experience and better understand complex scientific concepts.
+
+IT Industry - Ford uses VR in its design studio to create virtual prototypes of new vehicles. Designers can walk around the car, look inside, 
+and make real-time adjustments to the design. VR enables more efficient and cost-effective design processes, reducing the need for physical 
+prototypes and speeding up the development cycle.
+
+
+5. Blockchain Technology
+Purpose:  It is primarily used to create a secure and transparent system for recording and verifying data.
+
+Usage: Blockchain technology has the potential to revolutionize the education sector by providing a secure, transparent, and efficient 
+way to manage educational records and credentials. Meanwhile, it has significant applications in the IT industry, particularly in areas 
+related to security, data management, and supply chain management.
+
+Example: Education Sector - Verifying the authenticity of educational credentials, especially from institutions in different countries, 
+can be time-consuming and prone to fraud. A blockchain-based platform can securely store student records, including diplomas, transcripts, 
+and certificates. Each credential is assigned a unique hash value, making it tamper-proof.
+
+IT Industry - Software supply chains can be vulnerable to attacks, such as malware injection or code tampering. Blockchain can be used to 
+create an immutable record of the software development process, from the initial code to the final product. Each stage of the development 
+process is recorded on the blockchain, including changes made to the code, the identities of developers involved, and the verification of code integrity.
